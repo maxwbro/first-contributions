@@ -7,6 +7,7 @@
 - Larry San Nicolas
 - Shipra Khattri
 - Akash gupta 
+- Max Brooker
 - [Hamed jabbari] (https://github.com/hamedjbbri)
 - [yingl](https://github.com/godsome)
 - [SureshKumar Jha](https://github.com/sureshkumarjha)
@@ -14852,7 +14853,6 @@ macdara-dev
 - [Anshu S Panda](https://github.com/asp2809)
 - [Kseang Tan](https://github.com/s1lent92)
 - [Laura Reeve](https://github.com/laura-reeve)
-- [Max Broo](https://github.com/maxwbro)
 - [Bingen Ortuzar](https://github.com/bingenortuzar)
 - [Meghna Srivastava](https://github.com/meghna-saxena)
 - [Subrata Kumar Biswas](https://github.com/subrata3112)
