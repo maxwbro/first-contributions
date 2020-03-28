@@ -14852,6 +14852,7 @@ macdara-dev
 - [Anshu S Panda](https://github.com/asp2809)
 - [Kseang Tan](https://github.com/s1lent92)
 - [Laura Reeve](https://github.com/laura-reeve)
+- [Max Broo](https://github.com/maxwbro)
 - [Bingen Ortuzar](https://github.com/bingenortuzar)
 - [Meghna Srivastava](https://github.com/meghna-saxena)
 - [Subrata Kumar Biswas](https://github.com/subrata3112)
@@ -20826,5 +20827,5 @@ rehan
 - [Edward Pasenidis](https://github.com/pasenidis)
 - [Arno Kemner](https://github.com/arnosk)
 - [VisualDevelopment](https://github.com/VisualDevelopment)
-- [Max Broo](https://github.com/maxwbro)
+
 - [Kara Yount](https://github.com/karayount)
